@@ -1,0 +1,29 @@
+body{
+    background-color: aquamarine;
+}
+header{
+    background-color: black !important;
+    border: 2px solid blue;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    color: beige;
+}
+head img{
+    padding: 25px;
+}
+nav{
+    background-color: blueviolet;
+    border: 2px solid green;
+    border-radius: 22px;
+}
+nav p{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 40px;
+}
+section{
+
+}
